@@ -20,6 +20,10 @@ Hi, I'm Gilang Adi S, a passionate self-taught fullstack developer from Indonesi
 <br/>
 
 ---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilang-as" align="right">
+
+<center>
+
 <strong>Languages and Tools:</strong>
 <br/>
 <br/>
@@ -37,8 +41,6 @@ Hi, I'm Gilang Adi S, a passionate self-taught fullstack developer from Indonesi
 <code><img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/php.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/html5.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/css3.png"></code>
-<center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilang-as" align="right">
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ___
 
