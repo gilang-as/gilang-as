@@ -23,22 +23,22 @@ Hi, I'm Gilang Adi S, a passionate self-taught fullstack developer from Indonesi
 <strong>Languages and Tools:</strong>
 <br/>
 <br/>
-<img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/flutter.png">
-<img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/react.png">
-<img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/nextjs.svg">
-<img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/javascript.png">
-<img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/nodejs.png">
-<img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/dart.png">
-<img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/go.png">
+<code><img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/flutter.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/react.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/nextjs.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/javascript.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/nodejs.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/dart.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/go.png"></code>
 <br>
-<img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/graphql.png">
-<img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/firebase.png">
-<img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/codeigniter.png">
-<img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/php.png">
-<img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/html5.png">
-<img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/css3.png">
+<code><img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/graphql.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/firebase.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/codeigniter.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/php.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/html5.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/css3.png"></code>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilang-as" align="right">
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ___
 
 <a href="https://github.com/gilang-as/landTick"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gilang-as&repo=landTick" alt="lanTick - Ticket booking system with node js" width="49.75%"/></a>
