@@ -23,7 +23,6 @@ Hi, I'm Gilang Adi S, a passionate self-taught fullstack developer from Indonesi
 <strong>Languages and Tools:</strong>
 <br/>
 <br/>
-<div>
 <code><img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/flutter.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/react.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/nextjs.svg"></code>
@@ -31,7 +30,7 @@ Hi, I'm Gilang Adi S, a passionate self-taught fullstack developer from Indonesi
 <code><img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/nodejs.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/dart.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/go.png"></code>
-</div>
+<br>
 <code><img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/graphql.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/firebase.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/codeigniter.png"></code>
