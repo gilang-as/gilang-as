@@ -3,8 +3,13 @@
 <center>
 
 ### Hi there, I'm [Gilang!](https://gilang-as.github.io) 👋 <br/>
-<a href="https://www.facebook.com/gilangads"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"/></a>      &nbsp;&nbsp;   <a href="https://www.instagram.com/gil_adis/"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
-
+<a href="https://www.facebook.com/gilangads"><img src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/social/facebook.svg" alt="alt text" width="20" height="20"/></a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/gil_adis/"><img src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/social/instagram.svg" alt="alt text" width="20" height="20"></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gilangas/"><img src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/social/linkedin.svg" alt="alt text" width="20" height="20"></a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/gilang_adis"><img src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/social/twitter.svg" alt="alt text" width="20" height="20"></a>
 
 
 ___
