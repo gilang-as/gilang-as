@@ -39,5 +39,5 @@ ___
 <a href="https://github.com/gilang-as/rsa-php-kriptografi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gilang-as&repo=rsa-php-kriptografi" alt="Simple RSA with PHP" width="49.75%"/></a>
 
 ---
+<img src="https://github-readme-stats.vercel.app/api?username=gilang-as&show_icons=true&title_color=FF5500&icon_color=FF9933&text_color=000" alt="Gilang Adi Sasongko" width="100%"/>
 
-![gilang github stats](https://github-readme-stats.vercel.app/api?username=gilang-as&show_icons=true&title_color=000&icon_color=79ff97&text_color=000)
