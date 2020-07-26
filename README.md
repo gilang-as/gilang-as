@@ -22,6 +22,7 @@ Hi, I'm Gilang Adi S, a passionate self-taught fullstack developer from Indonesi
 ---
 <strong>Languages and Tools:</strong>
 <br/>
+<br/>
 <code><img height="20" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/nextjs.svg"></code>
