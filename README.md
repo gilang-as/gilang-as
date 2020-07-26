@@ -19,8 +19,8 @@ Hi, I'm Gilang Adi S, a passionate self-taught fullstack developer from Indonesi
 <code><img height="20" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/codeigniter.png"></code>
-<br/>
-<code><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilang-as" align="right"></code>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilang-as" align="right">
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ___
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gilang-as&repo=landTick)](https://github.com/gilang-as/landTick)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gilang-as&repo=gis-firebase)](https://github.com/gilang-as/gis-firebase)
