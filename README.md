@@ -1,8 +1,9 @@
-<img src="https://github.com/gilang-as/gilang-as/blob/master/assets/gilang.png?raw=true" width="110" height="120" align="right">
+<img src="https://github.com/gilang-as/gilang-as/blob/master/assets/gilang.png?raw=true" width="110" height="120" align="right"/>
 
 <center>
-### Hi there, I'm [Anurag!](https://anuraghazra.github.io) 👋
-<a href="https://www.facebook.com/gilangads"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://www.instagram.com/gil_adis/"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
+
+### Hi there, I'm [Gilang!](https://gilang-as.github.io) 👋
+<a href="https://www.facebook.com/gilangads"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"/></a>      &nbsp;&nbsp;   <a href="https://www.instagram.com/gil_adis/"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
 
 
 
