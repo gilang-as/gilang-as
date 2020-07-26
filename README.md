@@ -2,7 +2,7 @@
 
 <center>
 
-### Hi there, I'm [Gilang!](https://gilang-as.github.io) 👋
+### Hi there, I'm [Gilang!](https://gilang-as.github.io) 👋 \n
 <a href="https://www.facebook.com/gilangads"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"/></a>      &nbsp;&nbsp;   <a href="https://www.instagram.com/gil_adis/"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
 
 
