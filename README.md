@@ -20,7 +20,7 @@ Hi, I'm Gilang Adi S, a passionate self-taught fullstack developer from Indonesi
 <br/>
 
 ---
-<strong>Languages and Tools:</strong>
+<strong>Languages and Tools:</strong><br/>
 <code><img height="20" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/nextjs.svg"></code>
@@ -29,7 +29,7 @@ Hi, I'm Gilang Adi S, a passionate self-taught fullstack developer from Indonesi
 <code><img height="20" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/gilang-as/gilang-as/master/assets/skill/codeigniter.png"></code>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilang-as" align="right">
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ___
 
 <a href="https://github.com/gilang-as/landTick"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gilang-as&repo=landTick" alt="lanTick - Ticket booking system with node js" width="49.75%"/></a>
