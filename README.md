@@ -25,9 +25,9 @@ Hi, I'm Gilang Adi S, a passionate self-taught fullstack developer from Indonesi
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ___
 
-<a href="https://github.com/gilang-as/landTick"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gilang-as&repo=landTick" alt="lanTick - Ticket booking system with node js" width="50%"/></a>
-<a href="https://github.com/gilang-as/gis-firebase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gilang-as&repo=gis-firebase" alt="GIS with Firebase and Gmap API" width="50%"/></a>
-<a href="https://github.com/gilang-as/rsa-php-kriptografi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gilang-as&repo=rsa-php-kriptografi" alt="Simple RSA with PHP" width="50%"/></a>
+<a href="https://github.com/gilang-as/landTick"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gilang-as&repo=landTick" alt="lanTick - Ticket booking system with node js" width="49.75%"/></a>
+<a href="https://github.com/gilang-as/gis-firebase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gilang-as&repo=gis-firebase" alt="GIS with Firebase and Gmap API" width="49.75%"/></a>
+<a href="https://github.com/gilang-as/rsa-php-kriptografi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gilang-as&repo=rsa-php-kriptografi" alt="Simple RSA with PHP" width="49.75%"/></a>
 
 ---
 
