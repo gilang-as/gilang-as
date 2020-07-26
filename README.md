@@ -1,16 +1,17 @@
-### Hi there 👋
+<img src="" width="110" height="120" align="right">
+
+<center>
+<a href="https://www.facebook.com/gilangads"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://www.instagram.com/gil_adis/"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
 
 
-**gilang-as/gilang-as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**About Me**
 
+- 
+- Skills : PHP , Javascript , Rust , And Golang
+- 
+___
+**Stats**
+![fdciabdul github stats](https://github-readme-stats.vercel.app/api?username=gilang-as&show_icons=true&title_color=000&icon_color=79ff97&text_color=000)
